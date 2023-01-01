@@ -1359,7 +1359,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid #780206;
   margin-top: 1rem;
 }
 
@@ -1369,7 +1369,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #0078ff;
+  color: #780206;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -1377,7 +1377,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid #D38312;
   padding: 18px;
   font-style: italic;
 }
@@ -1414,7 +1414,7 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #0078ff;
+  color: #780206;
 }
 
 .box-comments .list-comments span {
@@ -1430,7 +1430,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #0078ff;
+  border-left: 5px solid #D38312;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1447,7 +1447,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #0078ff;
+  background-color: #D38312;
   top: 20px;
 }
 
@@ -1458,19 +1458,22 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #0078ff;
-  border-color: #0078ff;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
+  background: #780206;
+  background: -webkit-linear-gradient(to right, #061161, #780206);
+  background: linear-gradient(to right, #061161, #780206);
 }
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #0078ff;
   padding: 0.2rem 0.6rem;
   margin-bottom: 0.5rem;
   border-radius: 15px;
+  background: #D38312;
+  background: -webkit-linear-gradient(to right, #A83279, #D38312);
+  background: linear-gradient(to right, #A83279, #D38312);
 }
 
 .widget-tags ul li a {
